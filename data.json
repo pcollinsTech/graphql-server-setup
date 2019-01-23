@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Phil Collins",
+      "email": "phil@phil.com",
+      "age": 18
+    },
+    {
+      "id": "3",
+      "name": "John Doe",
+      "email": "john@john.com",
+      "age": 29
+    },
+    {
+      "name": "Harry White",
+      "email": "hary@gmail.com",
+      "age": 34,
+      "id": "erRNgNr"
+    }
+  ]
+}
